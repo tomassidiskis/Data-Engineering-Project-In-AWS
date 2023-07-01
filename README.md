@@ -26,6 +26,6 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 ## Architecture Diagram
 <img src="architecture.jpeg">
 
-## Whole process illustrated
+## Please click link below to see whole process illustrated and documented step by step
 
 https://medium.com/@tomasidikis/data-engineering-youtube-analysis-project-in-aws-30f21fbdd5ac
